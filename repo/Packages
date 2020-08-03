@@ -6,7 +6,6 @@ Description: installs theos for the online github lessons taught by myself
 Maintainer: demhademha
 Author: demhademha
 Section: system
-
 Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
 Filename: debs/theos-requirements_0.0.1_iphoneos-arm.deb
 Size: 776
