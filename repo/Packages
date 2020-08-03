@@ -1,0 +1,28 @@
+Package: theosrequirements
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: demhademha
+Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
+Filename: ./debs/theosrequirements_1.0_iphoneos-arm.deb
+Size: 776
+MD5sum: 45f7fd1de2d8bcb6b0ff231a964ecdba
+SHA1: 8dcfd67043829113af4fc8d7a0521e39a4ad98b7
+SHA256: 292003052f015c62a9b823b5d9229dedcbbe4f4912a34a1bc65e61f143b990f5
+Section: system
+Description: installs everything for theos for the lessons taught by me
+Author: demhademha
+Name: theosrequirements
+
+Package: tweakdevupdatenotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: demhademha
+Filename: ./debs/tweakdevupdatenotifier_1.0_iphoneos-arm.deb
+Size: 748
+MD5sum: 2f3688b4ca9a6d42a283409bb0c41e26
+SHA1: ca182b9a9a7db37655c1d130f4e40becc83470c0
+SHA256: ae93aee8fd85c0155e4f894d6e34ff4e4f59646468f1dad67a5cb9d88f7857fd
+Section: system
+Description: this will be updated to notify you when a new version of the course is available to take
+Author: demhademha
+Name: tweakdevupdatenotifier
