@@ -1,0 +1,1 @@
+sha1 ./com.demhademha.theos-requirements.deb
