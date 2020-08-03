@@ -7,8 +7,8 @@ Maintainer: demhademha
 Author: demhademha
 Section: system
 Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
-Filename: repo/debs/theos-requirements_0.0.1_iphoneos-arm.deb
-Size: 78
+Filename: ./debs/theos-requirements_0.0.1_iphoneos-arm.deb
+Size: 772
 MD5sum: 208adcbc6bbe3dd84de91da1e6d06793
 Sha1: ed37d408ef947463ce73eba93948c005d02ee184
 Sha256: 3a1d68333d024a66fb5b628f8790ba011824767d9073d55b41e7f0251d3934e1
