@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description:installs everything required for the online tweak lessons       
 Maintainer: demhademha
 Author: demhademha
-Section: system
+Section: System
 Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
 
 Filename: debs/com.demhademha.theos-requirements.deb
