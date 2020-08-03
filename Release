@@ -1,8 +1,8 @@
 Origin: demhademha
  Label: demhademha
- Suite: stable 
-Version: 1.0 
-Codename: ios 
-Architectures: iphoneos-arm 
+ Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
 Components: main 
-Description: a repo of some sort 
+Description: a repo of some sort
