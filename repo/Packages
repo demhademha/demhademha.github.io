@@ -1,15 +1,15 @@
-Package: com.theos-requirements
+Package: theos-requirements
 Name: theos-requirements
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description:installs everything required for the online tweak lessons       
+Description: installs theos for the online github lessons taught by myself 
 Maintainer: demhademha
 Author: demhademha
-Section: System
-Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
+Section: system
 
-Filename: debs/com.demhademha.theos-requirements.deb
+Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
+Filename: debs/theos-requirements_0.0.1_iphoneos-arm.deb
 Size: 776
-MD5sum: 09bf7944334e3e22ce4b7c317d710cf6
-SHA1: 074e969888b1fa721677ee7851d8a4c9c2cb5531
-SHA256: 236a4c6016429afb4bea4950eeb14a8511bcb4f2b91a3000144d0fc239cb07f8
+MD5sum: de4e0b2b279d7e361fd3a51ef6468a08 ./theos-requirements_0.0.1_iphoneos-arm.deb
+SHA1sum: b4119594ad1f9540a01fd5525ac5e75a5dfff5f4 ./theos-requirements_0.0.1_iphoneos-arm.deb
+SHA256sum: ad543cc33f3f8992096e17dc18206e966412cbe28cf367fd2c338458e24426d3 ./theos-requirements_0.0.1_iphoneos-arm.deb
