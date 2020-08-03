@@ -1,9 +1,0 @@
-Package: theos-requirements
-Name: theos-requirments
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description:installs everything required for the online tweak lessons       
-Maintainer: demhademha
-Author: demhademha
-Section: system
-Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
