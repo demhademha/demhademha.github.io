@@ -1,4 +1,4 @@
-Package: theos-requirements
+Package: com.theos-requirements
 Name: theos-requirements
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -8,7 +8,7 @@ Author: demhademha
 Section: system
 Depends: git, curl, fakeroot, clang, sudo, perl, openssl, odcctools, grep
 
-Filename: debs/com.demhademha.theos-requirements
+Filename: debs/com.demhademha.theos-requirements.deb
 Size: 776
 MD5sum: 09bf7944334e3e22ce4b7c317d710cf6
 SHA1: 074e969888b1fa721677ee7851d8a4c9c2cb5531
