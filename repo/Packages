@@ -12,8 +12,9 @@ Section: system
 Description: installs everything for theos for the lessons taught by me
 Author: demhademha
 Name: theosrequirements
+
 Package: tweakdevupdatenotifier
-Version: .0
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: demhademha
 Filename: ./debs/tweakdevupdatenotifier_1.0_iphoneos-arm.deb
@@ -25,6 +26,7 @@ Section: system
 Description: this will be updated to notify you when a new version of the course is available to take
 Author: demhademha
 Name: tweakdevupdatenotifier
+
 Package: tweakdevupdatenotifier
 Version: 2.0
 Architecture: iphoneos-arm
