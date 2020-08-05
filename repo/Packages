@@ -25,3 +25,16 @@ Section: system
 Description: this will be updated to notify you when a new version of the course is available to take
 Author: demhademha
 Name: tweakdevupdatenotifier
+Package: tweakdevupdatenotifier
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: demhademha
+Filename: ./debs/tweakdevupdatenotifier_2.0_iphoneos-arm.deb
+Size: 748
+MD5sum: 777f30dd67229ac19246df07da386cd2
+SHA1: 7ef6702099ed75c87d23560a2ffd355b8aacbe67
+SHA256: 6d3c5978d3299536fae26a43464d718d580f94f96d1d78cb95b67102319bd47d
+Section: system
+Description: this will be updated to notify you when a new version of the course is available to take
+Author: demhademha
+Name: tweakdevupdatenotifier
