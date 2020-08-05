@@ -13,7 +13,7 @@ Description: installs everything for theos for the lessons taught by me
 Author: demhademha
 Name: theosrequirements
 Package: tweakdevupdatenotifier
-Version: 1.0
+Version: .0
 Architecture: iphoneos-arm
 Maintainer: demhademha
 Filename: ./debs/tweakdevupdatenotifier_1.0_iphoneos-arm.deb
