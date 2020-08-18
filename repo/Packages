@@ -39,3 +39,17 @@ Size: 748
 MD5sum: 777f30dd67229ac19246df07da386cd2
 SHA1: 7ef6702099ed75c87d23560a2ffd355b8aacbe67
 SHA256: 6d3c5978d3299536fae26a43464d718d580f94f96d1d78cb95b67102319bd47d
+
+Package: tweakdevupdatenotifier
+Name: tweakdevupdatenotifier
+Version: 3.0
+Architecture: iphoneos-arm
+Description: this will be updated to notify you when a new version of the course is available to take
+Maintainer: demhademha
+Author: demhademha
+Section: system
+Filename: ./debs/tweakdevupdatenotifier_3.0_iphoneos-arm.deb
+Size: 748
+MD5sum: 53b1e061433397b452167710c0059190
+SHA1: ca2d474d422ff82b5f824d9819d30adf20c8007e
+SHA256: e814a51a4af02a06979010209fbc1647163587b81001fd999cac246ff9fdebc7
